@@ -4,7 +4,12 @@ description: 'Always iterating & in development, creating Solutions for Humanity
 
 # isgood.ai WebApp Docs
 
-**Got suggestions, or want to contribute?**  _Pls message your team lead_ in Slack and we can add you in ;\)
+**Got suggestions, or want to contribute?**  
+
+* _Contribute directly via_ [_https://github.com/for-good/webapp-docs/tree/master_](https://github.com/for-good/webapp-docs/tree/master) __
+* _DM your team lead in_ [_Slack_](https://isgood.slack.com) _to directly access gitbook editor._
+
+![](.gitbook/assets/banner-superpowers.png)
 
 ## Getting Super Powers
 
@@ -29,7 +34,7 @@ echo 'You got to trust me on this, I saved the world'
 
 ## Got Powers?
 
-If you are not yet part of our team of super-heroes changing the world with their tech super-powers, find out more about us at these locations:
+If you are not yet part of our team of super-heroes changing the world with their tech super-powers, _**find out more about us**_ at these locations:
 
 * [forhumanity.org.au](https://forhumanity.org.au)
 * [isgood.ai](https://isgood.ai)
