@@ -17,8 +17,8 @@ The record of our 2021 Community All-Hands kickoff is in our [Loomio](https://ww
 
 ## 2021 Q1 & Q2 Objectives 📌
 
-1. **Q1** -&gt; Have deployed and usable the "Module One" Indicator recommendation WebApp and supporting underlying platform and API functionality.
-2. **Q2** -&gt; Have deployed and usable the Core Functionality of the WebApp and supporting underlying platform and API functionality.
+1. **Q1** -&gt; Have deployed and usable the "Module One" Indicator recommendation **WebApp** and supporting underlying platform and API functionality.
+2. **Q2** -&gt; Have deployed and usable the Core Functionality of the **WebApp** and supporting underlying platform and API functionality.
 
 {% hint style="danger" %}
 **PLEASE NOTE**:  The way isgood.ai has been designed, built and released follows a mashup of [Open](https://en.wikipedia.org/wiki/Open-design_movement) [Modular](https://en.wikipedia.org/wiki/Modularity) [Integrated](https://en.wikipedia.org/wiki/System_integration) [Systems Design](https://en.wikipedia.org/wiki/Systems_design) principles, enabling best purpose for global good.    
