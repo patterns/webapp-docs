@@ -15,7 +15,7 @@ If you are not yet part of our team of super-heroes changing the world with thei
 
 {% page-ref page="community/contributing.md" %}
 
-{% page-ref page="getting-started.md" %}
+{% page-ref page="getting-started/" %}
 
 ## **Got suggestions, or want to contribute?**
 
@@ -26,7 +26,15 @@ If you are not yet part of our team of super-heroes changing the world with thei
 Join us -&gt; [https://isgood.ai/get-involved/](https://isgood.ai/get-involved/)
 {% endhint %}
 
-\_\_
+## Historical docs 
+
+To get consolidated and updated into this dedicated dev docs location:
+
+* [Mod 1 OKR & Spt Docs](https://app.clickup.com/6902024/v/dc/6jm88-3292) _\(mostly already here\)_
+* [Task Specs, Diagrams, etc](https://app.clickup.com/6902024/v/li/13327306)
+* [The isgood.ai WebApp Github Repo](https://github.com/for-good/isgood-webapp)
+* [Archive devdocs](https://app.clickup.com/6902024/docs/6jm88-2067/) _\(foundations, probably need updating to use\)_
+* Old [Clubhouse PM System](https://app.clubhouse.io/isgood/stories/), with lots of the foundational tasks.
 
 _This documentation, like our products and community, are always a work in progress ;\)_
 
