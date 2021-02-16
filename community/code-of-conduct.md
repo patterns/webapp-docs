@@ -4,7 +4,7 @@
 
 The isgood.ai core members take this CoC very serious. All members, contributors and volunteers in this community are required to act according to the following Code of Conduct to keep isgood.ai a positive, growing project and community and help us provide and ensure a safe environment for everyone.
 
-In addition to this CoC, everything we do at isgood.ai is also guided by our broader community obligations, underpinned by the [Solutions for Humanity In Handbook](https://handbook.forhumanity.org.au).
+In addition to this CoC, everything we do at isgood.ai is also guided by our broader community obligations, underpinned by the [Solutions for Humanity In Handbook](https://handbook.forhumanity.org.au) and the [isgood.ai Manifesto](https://isgood.ai/manifesto/).
 
 ### When Something Happens <a id="when-something-happens"></a>
 
