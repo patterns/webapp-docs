@@ -17,6 +17,7 @@
       * [Project Profile Fields](outline-and-goals/goals-and-product-build/q1-product-dev-outline/q1-webapp/project-profile-fields.md)
       * [Project Profile Display](outline-and-goals/goals-and-product-build/q1-product-dev-outline/q1-webapp/project-profile-display.md)
       * [Recommendations Display](outline-and-goals/goals-and-product-build/q1-product-dev-outline/q1-webapp/recommendations-display.md)
+      * [DB Schema](outline-and-goals/goals-and-product-build/q1-product-dev-outline/q1-webapp/db-schema.md)
     * [Q1 API](outline-and-goals/goals-and-product-build/q1-product-dev-outline/q1-api.md)
     * [Q1 DS](outline-and-goals/goals-and-product-build/q1-product-dev-outline/q1-ds.md)
   * [Q2 Product Dev Outline](outline-and-goals/goals-and-product-build/q2-product-dev-outline/README.md)
