@@ -29,7 +29,7 @@ DATABASE_URL=postgresql://DATABASE_USERNAME:DATABASE_PASSWORD@localhost:5432/DAT
 
 To start the project run: `blitz start`
 
-## No Blitz?
+## What the Blitz?
 
 In case your device didn't recognize blitz, run this command:  
 `npm install -g blitz` or `yarn global add blitz`
