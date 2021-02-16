@@ -34,14 +34,9 @@ To start the project run: `blitz start`
 In case your device didn't recognize blitz, run this command:  
 `npm install -g blitz` or `yarn global add blitz`
 
-**Create a New App**
-
-1. `blitz new myAppName`
-2. `cd myAppName`
-3. `blitz dev`
-4. View your baby app at [http://localhost:3000](http://localhost:3000/)
+We're built on Blitz.js ... check their docs: [https://blitzjs.com/docs/getting-started](https://blitzjs.com/docs/getting-started)
 
 ## Need Help?
 
-If you are an active contributor, please discuss in the \#
+If you are an active contributor, please discuss in the \#func-developers [Slack](https://isgood.slack.com/archives/C01APTAPVT7) channel.
 

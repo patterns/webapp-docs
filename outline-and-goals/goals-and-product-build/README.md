@@ -22,13 +22,14 @@ The record of our 2021 Community All-Hands kickoff is in our [Loomio](https://ww
 
 {% hint style="danger" %}
 **PLEASE NOTE**:  The way isgood.ai has been designed, built and released follows a mashup of [Open](https://en.wikipedia.org/wiki/Open-design_movement) [Modular](https://en.wikipedia.org/wiki/Modularity) [Integrated](https://en.wikipedia.org/wiki/System_integration) [Systems Design](https://en.wikipedia.org/wiki/Systems_design) principles, enabling best purpose for global good.    
-_**Every release will extend further beyond current understandings and insights.**_
+_**Every release will extend further beyond current available understandings and insights.**_
 {% endhint %}
 
 ## Release Targets
 
 * 2021-Q1:  Beta-Release, indicators and evidence \(data\) to solve problems \(SGD, GRI, IRIS, etc\).
-* 2021-Q2:  General availability of isgood.ai WebApp, Dashboards, Data-Connectors, AI-Assistant.
+* 2021-Q2:  General Availability of isgood.ai WebApp, Dashboards, Data-Connectors, AI-Assistant.
 * 2021-Q3:  Consolidate from Q1 & Q2, based on user feedback, extend data-connecters & scripts.
-* 2021-Q4:  Prioritise features and enhancements from platform design.
+* 2021-Q4:  Prioritise features and enhancements from platform design, extend AI-assistant.
+* 2022:  All currently scoped features will be released, along with platform-API, field-apps, predictive and prescriptive modelling, as well as cross-organisation collaboration & resource matching.
 
