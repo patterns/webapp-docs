@@ -6,7 +6,7 @@ description: 'Always iterating & in development, creating Solutions for Humanity
 
 ![Join us -&amp;gt; https://isgood.ai/get-involved/](.gitbook/assets/banner-superpowers.png)
 
-## Got Powers?
+## Got _\#techforgood_ Super-Powers?
 
 If you are not yet part of our team of super-heroes changing the world with their tech super-powers, _**find out more about us**_ at these locations:
 
@@ -14,6 +14,8 @@ If you are not yet part of our team of super-heroes changing the world with thei
 * [isgood.ai](https://isgood.ai)
 
 {% page-ref page="community/contributing.md" %}
+
+{% page-ref page="getting-started.md" %}
 
 ## **Got suggestions, or want to contribute?**
 
@@ -23,4 +25,8 @@ If you are not yet part of our team of super-heroes changing the world with thei
 {% hint style="success" %}
 Join us -&gt; [https://isgood.ai/get-involved/](https://isgood.ai/get-involved/)
 {% endhint %}
+
+\_\_
+
+_This documentation, like our products and community, are always a work in progress ;\)_
 
