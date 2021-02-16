@@ -10,6 +10,8 @@ Make sure you have read about our [code base](contributing.md#overview-of-our-co
 
 ## Quick Start
 
+You need Node.js 12 or newer.
+
 To start the project:
 
 1. To create node\_modules run: `npm install`  
@@ -27,7 +29,19 @@ DATABASE_URL=postgresql://DATABASE_USERNAME:DATABASE_PASSWORD@localhost:5432/DAT
 
 To start the project run: `blitz start`
 
-Note: in case your device didn't recognize blitz, run this command: `npm install -g blitz`
+## No Blitz?
 
+In case your device didn't recognize blitz, run this command:  
+`npm install -g blitz` or `yarn global add blitz`
 
+**Create a New App**
+
+1. `blitz new myAppName`
+2. `cd myAppName`
+3. `blitz dev`
+4. View your baby app at [http://localhost:3000](http://localhost:3000/)
+
+## Need Help?
+
+If you are an active contributor, please discuss in the \#
 
