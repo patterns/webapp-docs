@@ -5,7 +5,7 @@ description: Devs guide to getting your code and local set up.
 # Getting Started
 
 {% hint style="warning" %}
-Make sure you have read about our [code base](contributing.md#overview-of-our-codebase), and [how to contribute](contributing.md#first-things-first).
+Make sure you have read about our [code base](community/contributing.md#overview-of-our-codebase), and [how to contribute](community/contributing.md#first-things-first).
 {% endhint %}
 
 ## Quick Start
