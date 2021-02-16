@@ -34,7 +34,10 @@ To start the project run: `blitz start`
 In case your device didn't recognize blitz, run this command:  
 `npm install -g blitz` or `yarn global add blitz`
 
-We're built on Blitz.js ... check their docs: [https://blitzjs.com/docs/getting-started](https://blitzjs.com/docs/getting-started)
+We're built on Blitz.js ... check their docs: 
+
+* [https://blitzjs.com/docs/getting-started](https://blitzjs.com/docs/getting-started)
+* [https://github.com/blitz-js/blitz/wiki](https://github.com/blitz-js/blitz/wiki)
 
 ## Need Help?
 
