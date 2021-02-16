@@ -17,6 +17,6 @@ If you are not yet part of our team of super-heroes changing the world with thei
 
 ## **Got suggestions, or want to contribute?**
 
-* _Contribute directly via_ [_https://github.com/for-good/webapp-docs/tree/master_](https://github.com/for-good/webapp-docs/tree/master) \_\_
+* _Contribute directly via docs repo on_ [_GitHub_](https://github.com/for-good/webapp-docs)_._
 * _DM your team lead in_ [_Slack_](https://isgood.slack.com) _to directly access gitbook editor._
 
