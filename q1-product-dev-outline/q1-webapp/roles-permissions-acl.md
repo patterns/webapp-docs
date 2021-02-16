@@ -48,6 +48,8 @@ There has been work done by Matt and Hamid on this ... but, not sure it seems al
 
 Hamid is doing via the ground up via Prisma, while Matt is approaching DBschema first ... maybe a mix of both will end up being the result ???
 
-Approach suggested from Max, is via Role and attribute based approach, via plugin like:  
-[https://www.npmjs.com/package/@superawesome/permissions](https://www.npmjs.com/package/@superawesome/permissions)
+Approach suggested from Max, is via Role and attribute based approach, via plugin like:
+
+* [https://www.npmjs.com/package/@superawesome/permissions](https://www.npmjs.com/package/@superawesome/permissions)
+* [https://github.com/ntgussoni/blitz-guard](https://github.com/ntgussoni/blitz-guard)  \(official blitzjs permissions package/library\)
 

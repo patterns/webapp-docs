@@ -1,7 +1,5 @@
 # Q1 WebApp
 
-
-
 ## Basic Workflow
 
 1. enable user account rego

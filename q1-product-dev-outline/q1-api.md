@@ -10,7 +10,11 @@ Default communication for webapp and platform is JSON, so looking at options we 
 * [https://swagger.io/specification/](https://swagger.io/specification/)
 * [https://cube.dev/](https://cube.dev/)
 
-## Functionality for Q1 Release
+{% hint style="danger" %}
+NOTE: Complex access filters & permissions via API, will need to be handled and reflected via [WebApp](q1-webapp/roles-permissions-acl.md) interface for data/platform permissions, as well as hierarchy/group permissions.
+{% endhint %}
+
+## API Functionality for Q1 Release
 
 1. WebApp sends first four fields of project profile info to the API.
 2. Platform receives the JSON text and processes it.
