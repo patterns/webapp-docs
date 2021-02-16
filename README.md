@@ -2,35 +2,9 @@
 description: 'Always iterating & in development, creating Solutions for Humanity ;)'
 ---
 
-# isgood.ai WebApp Docs
+# isgood.ai Dev Docs
 
-**Got suggestions, or want to contribute?**  
-
-* _Contribute directly via_ [_https://github.com/for-good/webapp-docs/tree/master_](https://github.com/for-good/webapp-docs/tree/master) __
-* _DM your team lead in_ [_Slack_](https://isgood.slack.com) _to directly access gitbook editor._
-
-![](.gitbook/assets/banner-superpowers.png)
-
-## Getting Super Powers
-
-Becoming a super-hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+![Join us -&amp;gt; https://isgood.ai/get-involved/](.gitbook/assets/banner-superpowers.png)
 
 ## Got Powers?
 
@@ -38,4 +12,11 @@ If you are not yet part of our team of super-heroes changing the world with thei
 
 * [forhumanity.org.au](https://forhumanity.org.au)
 * [isgood.ai](https://isgood.ai)
+
+{% page-ref page="community/contributing.md" %}
+
+## **Got suggestions, or want to contribute?**
+
+* _Contribute directly via_ [_https://github.com/for-good/webapp-docs/tree/master_](https://github.com/for-good/webapp-docs/tree/master) \_\_
+* _DM your team lead in_ [_Slack_](https://isgood.slack.com) _to directly access gitbook editor._
 
