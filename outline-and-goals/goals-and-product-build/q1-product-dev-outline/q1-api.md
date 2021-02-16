@@ -14,5 +14,5 @@ Default communication for webapp and platform is JSON, so looking at options we 
 
 1. WebApp sends first four fields of project profile info to the API.
 2. Platform receives the JSON text and processes it.
-3. Returns list of platform indicatorIDs to WebApp and is stored as recommended indicatorIDs against the project
+3. Returns list of platform indicatorIDs to WebApp and is stored as recommended indicatorIDs against the project.
 
