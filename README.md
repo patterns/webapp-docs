@@ -2,41 +2,40 @@
 description: 'Always iterating & in development, creating Solutions for Humanity ;)'
 ---
 
-# isgood.ai Dev Docs
+# isgood.ai WebApp Docs
 
-![join us  -&amp;gt;  https://isgood.ai/get-involved/](.gitbook/assets/banner-superpowers.png)
+**Got suggestions, or want to contribute?**  
 
-## Got Super-Powers? Use them for Good!
+* _Contribute directly via_ [_https://github.com/for-good/webapp-docs/tree/master_](https://github.com/for-good/webapp-docs/tree/master) __
+* _DM your team lead in_ [_Slack_](https://isgood.slack.com) _to directly access gitbook editor._
 
-Join us in creating the systems and solutions that will enable a regenerative and prosperous future for people and planet.  Find out more at:
+![](.gitbook/assets/banner-superpowers.png)
 
-* [forhumanity.org.au](https://forhumanity.org.au)
-* [isgood.ai](https://isgood.ai/get-involved/)
-
-## Getting Super Powers 🦄 
+## Getting Super Powers
 
 Becoming a super-hero is a fairly straight forward process:
 
-```text
+```
 $ give me super-powers
 ```
 
 {% hint style="info" %}
-Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Once you're strong enough, save the world 🌏 
+Once you're strong enough, save the world:
 
 {% code title="hello.sh" %}
 ```bash
-# We are still working on creating the code for this
-echo 'Join isgood.ai and become part of the solution'
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
- 
+## Got Powers?
 
-\*\*\*\*✋ **Got suggestions, or want to contribute to** [**isgood.ai**](https://isgood.ai) **dev docs?**   
--&gt; contribute directly via github [https://github.com/for-good/webapp-docs/tree/master](https://github.com/for-good/webapp-docs/tree/master)  
--&gt; msg your team lead in Slack to be able to edit directly in the gitbook editor
+If you are not yet part of our team of super-heroes changing the world with their tech super-powers, _**find out more about us**_ at these locations:
+
+* [forhumanity.org.au](https://forhumanity.org.au)
+* [isgood.ai](https://isgood.ai)
 
