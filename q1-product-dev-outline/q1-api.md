@@ -11,7 +11,7 @@ Default communication for webapp and platform is JSON, so looking at options we 
 * [https://jsonapi.org/](https://jsonapi.org/)
 * [https://swagger.io/specification/](https://swagger.io/specification/)
 * [https://cube.dev/](https://cube.dev/)
-* ... other options to look at for base ???
+* ... other options to look at for base .. want open, not lock-in ???
 
 {% hint style="danger" %}
 NOTE: Complex access filters & permissions via API, will need to be handled and reflected via [WebApp](q1-webapp/roles-permissions-acl.md) interface for data/platform permissions, as well as hierarchy/group permissions.
