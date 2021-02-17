@@ -1,6 +1,8 @@
-# Q1 API
+# Q1 API 'n Infra
 
 For this stage of the project we have pretty minimal requirements for the API; however, we DO need to setup the foundation of the API layer, for us to have initial code and API service available to communicate between the isgood.ai webapp, and the isgood.ai platform \(DS data brain\).
+
+Those involved in the server infrastructure, ci/cd and DevOps, will be integral in the overall API and communications layer - incl.  infra for WebApp, API and platform services and infrastructure.
 
 ## Base API Service
 
@@ -9,6 +11,7 @@ Default communication for webapp and platform is JSON, so looking at options we 
 * [https://jsonapi.org/](https://jsonapi.org/)
 * [https://swagger.io/specification/](https://swagger.io/specification/)
 * [https://cube.dev/](https://cube.dev/)
+* ... other options to look at for base ???
 
 {% hint style="danger" %}
 NOTE: Complex access filters & permissions via API, will need to be handled and reflected via [WebApp](q1-webapp/roles-permissions-acl.md) interface for data/platform permissions, as well as hierarchy/group permissions.

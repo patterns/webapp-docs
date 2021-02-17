@@ -1,2 +1,2 @@
-# Q2 API
+# Q2 API 'n Infra
 
