@@ -6,7 +6,7 @@ Those involved in the server infrastructure, ci/cd and DevOps, will be integral 
 
 ## Base API Service
 
-Default communication for webapp and platform is JSON, so looking at options we can start looking at the following around easy to manage, deploy and contribute Open-API frameworks:
+Default communication for WebApp and platform is JSON, so looking at options we can start looking at the following around easy to manage, deploy and contribute Open-API frameworks:
 
 * [https://jsonapi.org/](https://jsonapi.org/)
 * [https://swagger.io/specification/](https://swagger.io/specification/)
