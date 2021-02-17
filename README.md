@@ -34,6 +34,7 @@ To get consolidated and updated into this dedicated dev docs location:
 * [Task Specs, Diagrams, etc](https://app.clickup.com/6902024/v/li/13327306)
 * [The isgood.ai WebApp Github Repo](https://github.com/for-good/isgood-webapp)
 * [Archive devdocs](https://app.clickup.com/6902024/docs/6jm88-2067/) _\(foundations, probably need updating to use\)_
+* Google Drive -&gt; "Product & Dev" folder
 * Old [Clubhouse PM System](https://app.clubhouse.io/isgood/stories/), with lots of the foundational tasks.
 
 _This documentation, like our products and community, are always a work in progress ;\)_
