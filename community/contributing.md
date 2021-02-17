@@ -49,7 +49,7 @@ We encourage you to follow the following general guidelines to help you team mat
 
 ## Making a Contribution
 
-When you are making a contribution, it will normally be done as a pull-request from a branch that contains your edits \([see github docs](https://opensource.guide/how-to-contribute/#opening-a-pull-request)\).
+When you are making a contribution, it will normally be done as a pull-request from a branch that contains your edits \([see github's docs](https://opensource.guide/how-to-contribute/#opening-a-pull-request)\).
 
 A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” \(Work in Progress\) in the subject line. You can always add more commits later.
 
