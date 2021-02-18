@@ -12,9 +12,9 @@ description: >-
 
 ### I tried to run x, but says requires y
 
-* Please check [dependencies](https://docs.isgood.ai/getting-started), and getting started docs of those dependencies.
+* Please check [t](https://docs.isgood.ai/getting-started)he [code readme](https://github.com/for-good/isgood-webapp/), and getting started [docs](https://docs.isgood.ai/getting-started) of those dependencies.
 * Use existing/recommended approaches in the stack we use, don't do from scratch.
-* our webapp base runs off [Blitz.js](https://blitzjs.com/), with a lot of cool tricks to help devs 😜 
+* our webapp base runs off [Blitz.js](https://blitzjs.com/), with a lot of cool tricks, libraries and functions to help devs 😜 
 
 ### Not sure about my SQL and Postgres Field Types
 
