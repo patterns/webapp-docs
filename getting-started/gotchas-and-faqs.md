@@ -16,6 +16,10 @@ description: >-
 * Use existing/recommended approaches in the stack we use, don't do from scratch.
 * our webapp base runs off [Blitz.js](https://blitzjs.com/), with a lot of cool tricks to help devs 😜 
 
+### Not sure about my SQL and Postgres Field Types
+
+What not to do in Postgres:  [https://wiki.postgresql.org/wiki/Don't\_Do\_This](https://wiki.postgresql.org/wiki/Don't_Do_This)
+
 ### more topics .......
 
 
