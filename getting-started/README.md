@@ -12,22 +12,8 @@ Make sure you have read about our [code base](../community/contributing.md#overv
 
 You need Node.js 12 or newer.
 
-To start the project:
-
-1. To create node\_modules run: `npm install`  
-2. Create .env.local file and add
-
-```bash
-DATABASE_USERNAME = "postgres"
-DATABASE_DIALECT = "postgres"
-DATABASE_PASSWORD = "postgres"
-DATABASE_DATABASE = "bla bla"
-DATABASE_HOST = "localhost"
-DATABASE_LOGGING = "true"
-DATABASE_URL=postgresql://DATABASE_USERNAME:DATABASE_PASSWORD@localhost:5432/DATABASE_DATABASE
-```
-
-To start the project run: `blitz start`
+For latest info, please refer to the github repo:  
+[https://github.com/for-good/isgood-webapp/](https://github.com/for-good/isgood-webapp/)
 
 ## What the Blitz?
 
