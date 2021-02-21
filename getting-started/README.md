@@ -15,6 +15,11 @@ You need Node.js 12 or newer.
 For latest info, please refer to the github repo:  
 [https://github.com/for-good/isgood-webapp/](https://github.com/for-good/isgood-webapp/)
 
+{% hint style="success" %}
+open direct in code view:  
+[https://github1s.com/for-good/isgood-webapp](https://github1s.com/for-good/isgood-webapp)
+{% endhint %}
+
 ## What the Blitz?
 
 In case your device didn't recognize blitz, run this command:  

@@ -15,7 +15,8 @@
 
 ## How's it Work?
 
-**User**: is a global entity, they have access to whatever is created/shared with them, at the access level/role shared.
+**User**: is a global entity, they have access to whatever is created/shared with them, at the access level/role shared.    
+All of the elements within the app are ASSETS, to which a user is shared access and assigned a certain role for that asset  \(like in google drive\).
 
 **Organisation**: is the top-level asset in the webapp, like a G-Suite organisation.
 

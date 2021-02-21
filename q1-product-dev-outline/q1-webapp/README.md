@@ -9,12 +9,16 @@
 5. when setting up/edit project, enter project profile info \(people, place, problem\)
 6. once project info entered, AI returns recommendation of project indicators \(minimal-mapper\), top results displayed on project profile to user.
 
+![Initial Basic Login / Account Setup Flow](../../.gitbook/assets/image%20%283%29.png)
+
 ## For recommendations to work:
 
 * inputs are the project fields
 * outputs are the recommended indicator IDs returned by mapper script vectors -&gt; full info from global\_text
 
 ## Mock and User Flow
+
+#### 
 
 The mock and user flow has been collated via our [Miro Board](https://miro.com/app/board/o9J_kyYfLV0=/?moveToWidget=3074457354464890435&cot=10).
 
