@@ -4,7 +4,7 @@
 
 * permissions and access is very similar to the way google drive works
 * users - they can access what has been shared with them \(ACL user levels, and per user share\)
-* User are the one global entity in the isgood.ai app, everything else in there are just assets, to which users do or do not have access, and have certain permissions or roles for. 
+* _**User are the one global entity in the isgood.ai app, everything else in there are just assets, to which users do or do not have access, and have certain permissions or roles for.**_ 
 * organisation is the top level hierarchical asset
 * projects belong to an organisation
 * projects have info about the project/initiative being run \(people, problem, place\). 
@@ -16,7 +16,7 @@
 
 ## How's it Work?
 
-**User**: is a global entity, they have access to whatever is created/shared with them, at the access level/role shared.    
+**User**: is a global entity, they have access to whatever is created/shared with them, at the access level permissions/role shared.    
 All of the elements within the app are ASSETS, to which a user is shared access and assigned a certain role for that asset  \(like in google drive\).
 
 **Organisation**: is the top-level asset in the webapp, like a G-Suite organisation.
