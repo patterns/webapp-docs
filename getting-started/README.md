@@ -17,7 +17,8 @@ For latest info, please refer to the github repo:
 
 {% hint style="success" %}
 open direct in code view:  
-[https://github1s.com/for-good/isgood-webapp](https://github1s.com/for-good/isgood-webapp)
+[https://github1s.com/for-good/isgood-webapp](https://github1s.com/for-good/isgood-webapp)  
+_\(_[_chrome extensions for github1s_](https://chrome.google.com/webstore/detail/github1s/lodjfmkfbfkpdhnhkcdcoonghhghbkhe)_\)_
 {% endhint %}
 
 ## What the Blitz?
