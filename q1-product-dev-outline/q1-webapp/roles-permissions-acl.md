@@ -4,11 +4,12 @@
 
 * permissions and access is very similar to the way google drive works
 * users - they can access what has been shared with them \(ACL user levels, and per user share\)
-* organisation is the primary “account holder”
+* User are the one global entity in the isgood.ai app, everything else in there are just assets, to which users do or do not have access, and have certain permissions or roles for. 
+* organisation is the top level hierarchical asset
 * projects belong to an organisation
-* projects have info about the people, problem, place
+* projects have info about the project/initiative being run \(people, problem, place\). 
 * ownership and access of assets, data, etc in the webapp by user
-* user-groups and sharing groups \(eg. share with everyone in org\) will come later.
+* user-groups and sharing groups \(eg. share with everyone in org\) will come later. 
 * project partner/child relations, similar to folder structure in google drive \(and sharing similar too\)
 * VERY hierarchical \(think of how intl aid orgs, military, etc type structures work\)
 * permissions are inherited, but do not over-ride protections on individual assets if restricted, etc.
@@ -20,14 +21,14 @@ All of the elements within the app are ASSETS, to which a user is shared access 
 
 **Organisation**: is the top-level asset in the webapp, like a G-Suite organisation.
 
-* An **organisation owner** is the user that created the org.
+* An **organisation owner** permission is given to the user that created the org.
 * Access to the org can be shared, with edit permissions to an **organisation manager**, who can manage the org on behalf of the owner.
 * They can share and invite other users to the organisation, with specific permissions \(see below table\). 
 * An org will be the top-level billing entity \(after we integrate billing\).
 
 **Project**: projects sit under organisations, and have hierarchy like folders in google drive.
 
-* A **project owner** is the user that created the project.
+* The **project owner** permission is given to the user that created the project.
 * Access to the project can be shared, with edit permissions to a **project manager**, who can manage the project on behalf of the owner.
 * They can share and invite other users to the projects, with specific permissions \(see below table\). 
 * Projects will be hierarchical billing entities, paying for their owned/child projects \(after we integrate billing\).
