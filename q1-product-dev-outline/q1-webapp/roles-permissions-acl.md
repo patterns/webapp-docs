@@ -37,6 +37,20 @@ There are other entities where permissions apply, and gets quite complex once da
 
 ## Permissions Specification Table
 
+**All permissions are just based off the following:**
+
+-&gt; **assetID** \(org, project, dash, tile, data, group, etc\)
+
+* if this doesn't exist, they have no access to the asset with that assetID
+* check in hierarchical order for user, to filter at highest level
+
+-&gt; **Permission** \(owner, manager, contributor, guest edit, guest view, etc\)
+
+* for an asset where the assetID is given to a user, then what is the permissions level
+* can always view as have access, but extra functionality may be restricted, per access level
+
+_As permissions are inherited, an org owner would be able to have permissions on everything in an org, unless it was expressly set as not being able to access \(private\), would be visible as existing, but would need to request to view/edit._
+
 ![Permission only to PROJECT LEVEL during this release](https://t6902024.p.clickup-attachments.com/t6902024/023d3400-3cec-4f36-9289-0317baaf4ff6/image.png)
 
 NOTE:
