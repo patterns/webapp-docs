@@ -6,7 +6,7 @@
 
 ## Community
 
-* [Contributing](community/contributing.md)
+* [How to Contribute](community/contributing.md)
 * [Code of Conduct](community/code-of-conduct.md)
 
 ## Outline & Goals

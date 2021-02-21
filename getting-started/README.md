@@ -26,10 +26,11 @@ _\(_[_chrome extensions for github1s_](https://chrome.google.com/webstore/detail
 In case your device didn't recognize blitz, run this command:  
 `npm install -g blitz` or `yarn global add blitz`
 
-We're built on Blitz.js ... check their docs: 
+Our WebApp is built on Blitz.js ... check their docs: 
 
-* [https://blitzjs.com/docs/getting-started](https://blitzjs.com/docs/getting-started)
-* [https://github.com/blitz-js/blitz/wiki](https://github.com/blitz-js/blitz/wiki)
+* [**https://blitzjs.com/docs/tutorial**](https://blitzjs.com/docs/tutorial)
+* [Blitz.js Video Primer](https://www.youtube.com/watch?v=UHyx8MtCVVk)
+* [Blitz.js resources wiki](https://github.com/blitz-js/blitz/wiki)
 
 ## Need Help?
 

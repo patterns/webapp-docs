@@ -2,7 +2,7 @@
 description: "\U0001F44B  We're so excited you're interested in helping with isgood.ai! We are happy to help you get started, even if you don't have any previous #techforgood or open-source experience :)"
 ---
 
-# Contributing
+# How to Contribute
 
 ## First Things First
 
