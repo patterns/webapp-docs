@@ -10,6 +10,11 @@ description: >-
 
 ![RTFM, google, ask :\)](../.gitbook/assets/image%20%282%29.png)
 
+_**Gotcha from team:**_  
+ run `npm install`   
+and then `npm i react@latest`   
+immediately after cloning the repo and switching to your local branch
+
 ### I tried to run x, but says requires y
 
 * Please check [t](https://docs.isgood.ai/getting-started)he [code readme](https://github.com/for-good/isgood-webapp/), and getting started [docs](https://docs.isgood.ai/getting-started) for dependencies.
