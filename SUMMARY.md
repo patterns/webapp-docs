@@ -29,5 +29,5 @@
 * [Project Profile Display](base-functional-specs/project-profile-display.md)
 * [Recommendations Display](base-functional-specs/recommendations-display.md)
 * [DB Schema](base-functional-specs/db-schema.md)
-* [Open API Service](base-functional-specs/q1-api.md)
+* [Open API Service](base-functional-specs/open-api.md)
 
