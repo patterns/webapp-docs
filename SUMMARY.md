@@ -8,12 +8,12 @@
 
 * [How to Contribute](community/contributing.md)
 * [Code of Conduct](community/code-of-conduct.md)
+* [Goals & Release Targets](community/goals-and-product-build.md)
 
-## Outline & Goals
+## Release Outline <a id="outline"></a>
 
 ---
 
-* [Goals & Release Targets](goals-and-product-build.md)
 * [Q1 Product Dev Outline](q1-product-dev-outline/README.md)
   * [Q1 WebApp](q1-product-dev-outline/q1-webapp.md)
   * [Q1 DS](q1-product-dev-outline/q1-ds.md)

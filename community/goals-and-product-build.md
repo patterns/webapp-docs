@@ -13,7 +13,7 @@ The record of our 2021 Community All-Hands kickoff is in our [Loomio](https://ww
 
 ## 2021 Goals
 
-![2021 Goals](.gitbook/assets/image.png)
+![2021 Goals](../.gitbook/assets/image.png)
 
 ## 2021 Q1 & Q2 Objectives 📌
 

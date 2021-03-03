@@ -4,6 +4,8 @@ description: 'Always iterating & in development, creating Solutions for Humanity
 
 # isgood.ai Dev Docs
 
+
+
 ![Join us -&amp;gt; https://isgood.ai/get-involved/](.gitbook/assets/banner-superpowers.png)
 
 ## Got _\#techforgood_ Super-Powers?
