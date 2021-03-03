@@ -4,7 +4,7 @@ For this stage of the project we have pretty minimal requirements for the API; h
 
 Those involved in the server infrastructure, ci/cd and DevOps, will be integral in the overall API and communications layer - incl.  infra for WebApp, API and platform services and infrastructure.
 
-Open does NOT mean insecure, it means that we intend it to be able to be able to connect to a very open number of AUTHORISED apps and systems. 
+Open does NOT mean insecure, it means that we intend it to be able to connect to a very open number of AUTHORISED apps and systems. 
 
 ## Base API Service
 
