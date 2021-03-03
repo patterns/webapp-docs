@@ -25,3 +25,9 @@ NOTE: Complex access filters & permissions via API, will need to be handled and 
 2. Platform receives the JSON text and processes it.
 3. Returns list of platform indicatorIDs to WebApp and is stored as recommended indicatorIDs against the project.
 
+## Kickoff Meeting Recording
+
+{% embed url="https://youtu.be/Zodq9h1vDjY" %}
+
+
+
