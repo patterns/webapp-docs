@@ -1,10 +1,10 @@
-# Q1 Product Dev Outline
+# Product Outline
 
-### Objective ﻿　﻿
+### 2021 - Q1 Objective ﻿　﻿
 
 Have a usable indicator recommendation WebAapp.
 
-### Key Results ﻿　﻿
+### 2021 - Q2 Key Results ﻿　﻿
 
 * Base scaffold and functionality for fairly standard WebApp.
 * Mapper global\_text can process basic project information and return recommended indicators \(mapper script\).
@@ -20,7 +20,7 @@ Have a usable indicator recommendation WebAapp.
 
 ## **Platform Layers** _**\(needs update\)**_
 
-![The areas in green, are the touchpoints for this OKR](https://t6902024.p.clickup-attachments.com/t6902024/5bc106b1-70c8-4293-bb13-b43653cca1f7/image.png)
+![The areas in green, are the touchpoints for the Q1 and Q2 Releases](https://t6902024.p.clickup-attachments.com/t6902024/5bc106b1-70c8-4293-bb13-b43653cca1f7/image.png)
 
 ## Y-Combinator Build Sprint Participants - Winter 2021
 
