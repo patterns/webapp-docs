@@ -9,7 +9,7 @@
 5. when setting up/edit project, enter project profile info \(people, place, problem\)
 6. once project info entered, AI returns recommendation of project indicators \(minimal-mapper\), top results displayed on project profile to user.
 
-![Initial Basic Login / Account Setup Flow](../../.gitbook/assets/image%20%283%29.png)
+![Initial Basic Login / Account Setup Flow](../.gitbook/assets/image%20%283%29.png)
 
 ## For recommendations to work:
 

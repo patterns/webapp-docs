@@ -1,4 +1,4 @@
-# Q1 API 'n Infra
+# Open API Service
 
 For this stage of the project we have pretty minimal requirements for the API; however, we DO need to setup the foundation of the API layer, for us to have initial code and API service available to communicate between the isgood.ai webapp, and the isgood.ai platform \(DS data brain\).
 
@@ -14,7 +14,7 @@ Default communication for WebApp and platform is JSON, so looking at options we 
 * ... other options to look at for base ... want open, not lock-in ???
 
 {% hint style="danger" %}
-NOTE: Complex access filters & permissions via API, will need to be handled and reflected via [WebApp](q1-webapp/roles-permissions-acl.md) interface for data/platform permissions, as well as hierarchy/group permissions.
+NOTE: Complex access filters & permissions via API, will need to be handled and reflected via [WebApp](roles-permissions-acl.md) interface for data/platform permissions, as well as hierarchy/group permissions.
 {% endhint %}
 
 ## API Functionality for Q1 Release

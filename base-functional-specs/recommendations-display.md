@@ -8,7 +8,7 @@ To start with, the indicators the system and scripts have been tested against is
 
 ## Example Recommendations Display
 
-![Mock Concept for Recommended Indicators in project tab](../../.gitbook/assets/image%20%281%29.png)
+![Mock Concept for Recommended Indicators in project tab](../.gitbook/assets/image%20%281%29.png)
 
 ![Future Version advanced indicators selections functionality \(and BYO\)](https://t6902024.p.clickup-attachments.com/t6902024/c594b114-0600-4424-a673-c8ab7c3651af/image.png)
 
