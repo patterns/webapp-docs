@@ -3,6 +3,7 @@
 * [isgood.ai Dev Docs](README.md)
 * [Getting Started](getting-started/README.md)
   * [Gotchas & FAQs](getting-started/gotchas-and-faqs.md)
+  * [VS Code Helpers](getting-started/vs-code-helpers.md)
 
 ## Community
 
