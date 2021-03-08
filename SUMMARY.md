@@ -10,14 +10,18 @@
 * [Code of Conduct](community/code-of-conduct.md)
 * [Goals & Release Targets](community/goals-and-product-build.md)
 
-## Base Functional Specs
+## WebApp Specs <a id="base-functional-specs"></a>
 
 * [Roles, Permissions, ACL](base-functional-specs/roles-permissions-acl.md)
 * [Project Profile Fields](base-functional-specs/project-profile-fields.md)
 * [Project Profile Display](base-functional-specs/project-profile-display.md)
 * [Recommendations Display](base-functional-specs/recommendations-display.md)
 * [DB Schema](base-functional-specs/db-schema.md)
-* [Open API Service](base-functional-specs/open-api.md)
+
+## API & Data Specs
+
+* [Open API Service](api-and-data-specs/open-api.md)
+* [Mapping Data \(geoJSON\)](api-and-data-specs/mapping-data-geojson.md)
 
 ## Release Outline <a id="outline"></a>
 

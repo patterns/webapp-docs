@@ -16,7 +16,7 @@ Default communication for WebApp and platform is JSON, so looking at options we 
 * ... other options to look at for base ... want open, not lock-in ???
 
 {% hint style="danger" %}
-NOTE: Complex access filters & permissions via API, will need to be handled and reflected via [WebApp](roles-permissions-acl.md) interface for data/platform permissions, as well as hierarchy/group permissions.
+NOTE: Complex access filters & permissions via API, will need to be handled and reflected via [WebApp](../base-functional-specs/roles-permissions-acl.md) interface for data/platform permissions, as well as hierarchy/group permissions.
 {% endhint %}
 
 ## API Functionality for Q1 Release
