@@ -1,5 +1,14 @@
 # Roles, Permissions, ACL
 
+## Current Status
+
+Technically, our approach is a **hybrid of RBAC and ABAC policies**  \(thx @Ilias for defining this 🙏 \)
+
+We are currently investigating the following libraries, which seem to solidly support our approach:
+
+* [https://casbin.org/](https://casbin.org/)   \(Ilias leading investigation of this\)
+* [https://www.osohq.com/](https://www.osohq.com/)    \(Matt leading investigation of this\)
+
 ## Relationship Fundamentals
 
 * permissions and access is very similar to the way google drive works
@@ -58,14 +67,7 @@ NOTE:
 * Overall access is based on sharing with users, similar to how it works in Google. drive, Clickup, Slack, AirTable, Miro, etc
 * Spreadsheet source -&gt; [https://docs.google.com/spreadsheets/d/15eKNQurjpG-gUrt\_bcD32ltuZaLsBZGciqIcQOUaXCQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15eKNQurjpG-gUrt_bcD32ltuZaLsBZGciqIcQOUaXCQ/edit?usp=sharing)
 
-## Current Status
-
-Technically, our approach is a **hybrid of RBAC and ABAC policies**  \(thx @Ilias for defining this 🙏 \)
-
-We are currently investigating the following libraries, which seem to solidly support our approach:
-
-* [https://casbin.org/](https://casbin.org/)   \(Ilias leading investigation of this\)
-* [https://www.osohq.com/](https://www.osohq.com/)    \(Matt leading investigation of this\)
+## Historical
 
 ~~There has been work done by Matt and Hamid on this ... but, not sure it seems aligned ??!?!?!?!~~
 
