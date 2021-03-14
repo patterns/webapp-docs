@@ -58,14 +58,21 @@ NOTE:
 * Overall access is based on sharing with users, similar to how it works in Google. drive, Clickup, Slack, AirTable, Miro, etc
 * Spreadsheet source -&gt; [https://docs.google.com/spreadsheets/d/15eKNQurjpG-gUrt\_bcD32ltuZaLsBZGciqIcQOUaXCQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15eKNQurjpG-gUrt_bcD32ltuZaLsBZGciqIcQOUaXCQ/edit?usp=sharing)
 
-## Progress
+## Current Status
 
-There has been work done by Matt and Hamid on this ... but, not sure it seems aligned ??!?!?!?!
+Technically, our approach is a **hybrid of RBAC and ABAC policies**  \(thx @Ilias for defining this 🙏 \)
 
-Hamid is doing via the ground up via Prisma, while Matt is approaching DBschema first ... maybe a mix of both will end up being the result ???
+We are currently investigating the following libraries, which seem to solidly support our approach:
 
-Approach suggested from Max, is via Role and attribute based approach, via plugin like:
+* [https://casbin.org/](https://casbin.org/)   \(Ilias leading investigation of this\)
+* [https://www.osohq.com/](https://www.osohq.com/)    \(Matt leading investigation of this\)
 
-* [https://www.npmjs.com/package/@superawesome/permissions](https://www.npmjs.com/package/@superawesome/permissions)
-* [https://github.com/ntgussoni/blitz-guard](https://github.com/ntgussoni/blitz-guard)  \(official blitzjs permissions package/library\)
+~~There has been work done by Matt and Hamid on this ... but, not sure it seems aligned ??!?!?!?!~~
+
+~~Hamid is doing via the ground up via Prisma, while Matt is approaching DBschema first ... maybe a mix of both will end up being the result ???~~
+
+~~Approach suggested from Max, is via Role and attribute based approach, via plugin like:~~
+
+* ~~~~[~~https://www.npmjs.com/package/@superawesome/permissions~~](https://www.npmjs.com/package/@superawesome/permissions)~~~~
+* ~~~~[~~https://github.com/ntgussoni/blitz-guard~~](https://github.com/ntgussoni/blitz-guard)  ~~\(official blitzjs permissions package/library\)~~
 
