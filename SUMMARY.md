@@ -13,6 +13,7 @@
 
 ## WebApp Specs <a id="base-functional-specs"></a>
 
+* [Product Outline](base-functional-specs/product-outline.md)
 * [Roles, Permissions, ACL](base-functional-specs/roles-permissions-acl.md)
 * [Project Profile Fields](base-functional-specs/project-profile-fields.md)
 * [Project Profile Display](base-functional-specs/project-profile-display.md)
@@ -28,11 +29,11 @@
 
 ---
 
-* [Product Outline](product-outline/README.md)
-  * [Q1 WebApp](product-outline/q1-webapp.md)
-  * [Q1 DS](product-outline/q1-ds.md)
-* [Q2 Product Dev Outline](q2-product-dev-outline/README.md)
-  * [Q2 WebApp](q2-product-dev-outline/q2-webapp.md)
-  * [Q2 API 'n Infra](q2-product-dev-outline/q2-api.md)
-  * [Q2 DS](q2-product-dev-outline/q2-ds.md)
+* [Q1 Dev Outline](q1-dev-outline/README.md)
+  * [Q1 WebApp](q1-dev-outline/q1-webapp.md)
+  * [Q1 DS](q1-dev-outline/q1-ds.md)
+* [Q2 Dev Outline](q2-dev-outline/README.md)
+  * [Q2 WebApp](q2-dev-outline/q2-webapp.md)
+  * [Q2 API 'n Infra](q2-dev-outline/q2-api.md)
+  * [Q2 DS](q2-dev-outline/q2-ds.md)
 

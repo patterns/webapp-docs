@@ -1,14 +1,8 @@
+---
+description: 'Basic product outline, to understand the high-level concept.'
+---
+
 # Product Outline
-
-### 2021 - Q1 Objective ﻿　﻿
-
-Have a usable indicator recommendation WebAapp.
-
-### 2021 - Q2 Key Results ﻿　﻿
-
-* Base scaffold and functionality for fairly standard WebApp.
-* Mapper global\_text can process basic project information and return recommended indicators \(mapper script\).
-* summary screen of recommendations returned.
 
 ## Layered and modular Platform and App Approach
 
@@ -22,11 +16,5 @@ Have a usable indicator recommendation WebAapp.
 
 ![The areas in green, are the touchpoints for the Q1 and Q2 Releases](https://t6902024.p.clickup-attachments.com/t6902024/5bc106b1-70c8-4293-bb13-b43653cca1f7/image.png)
 
-## Y-Combinator Build Sprint Participants - Winter 2021
-
-This phase of our build is in combination with the YC Build Sprint.
-
-> \*\*\*\*🏆 **Our Goal: Launch First Public Release of isgood.ai App \(with working platform integration\)**
-
-Let's make sure we hit our goals  🎯     ... read more on the [ycombinator site](https://blog.ycombinator.com/yc-build-sprint-winter-2021/).
+## 
 
