@@ -16,7 +16,7 @@ description: "\U0001F44B  We're so excited you're interested in helping with isg
 The greater isgood.ai project has 3 layers:
 
 1. WebApp Presentation Layer.
-2. Backend, API and Data-Service Layer.
+2. API and Data-Service Layer.
 3. AI & Data-Platform Layer.
 
 Layer 1 defaults to javascript, while layer 3 defaults to python.  Layer 2 is a combination of javascript, python and open-api standards.
@@ -27,10 +27,8 @@ Tech stack on Stackshare -&gt; [https://stackshare.io/isgood-ai/beta](https://st
 
 Collaborative decision making about tech stack decisions made on our [Loomio](https://www.loomio.org/sfh-isgood-ai-product/).
 
-As general outline, our contributors spend most time with [Node](https://nodejs.org/), [React](https://reactjs.org/) & [Python](https://www.python.org/) coding languages, [PostgerSQL](https://www.postgresql.org/) and [Prisma](https://www.prisma.io/), along with [Material-UI](https://next.material-ui.com/).    
-Our app base is [Blitz.js](https://blitzjs.com), so you MUST be familiar with this.   
+As general outline, our contributors spend most time with [Node](https://nodejs.org/), [React](https://reactjs.org/) & [Python](https://www.python.org/) coding languages, [PostgerSQL](https://www.postgresql.org/).  
 
-note: _love the Blitz.js inclusive community and tech approach. If we find issues or can add back to this project and community, it would be very cool to do so_😍
 
 ## Open-Source Public-Good Principles
 

@@ -12,7 +12,6 @@ Default communication for WebApp and platform is JSON, so looking at options we 
 
 * [https://jsonapi.org/](https://jsonapi.org/)
 * [https://swagger.io/specification/](https://swagger.io/specification/)
-* [https://cube.dev/](https://cube.dev/)
 * ... other options to look at for base ... want open, not lock-in ???
 
 {% hint style="danger" %}

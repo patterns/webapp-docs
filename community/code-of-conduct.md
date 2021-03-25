@@ -12,7 +12,7 @@ If you see a Code of Conduct violation, follow these steps:
 
 1. Let the person know that what they did is not appropriate and ask them to stop and/or edit their message\(s\).
 2. That person should immediately stop the behavior and correct the issue.
-3. If this doesn’t happen, or if you’re uncomfortable speaking up, contact Max Lynam \([LinkedIn](https://www.linkedin.com/in/maxlynam/)\), or our community leads via Solutions for Humanity \(Judith, Penelope, Gareth, Simon, Julien\).
+3. If this doesn’t happen, or if you’re uncomfortable speaking up, contact Max Lynam \([LinkedIn](https://www.linkedin.com/in/maxlynam/)\), or our community leads via Solutions for Humanity \(Judith, Penelope, Gareth, Simon, Sanee\).
 
 When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.
 

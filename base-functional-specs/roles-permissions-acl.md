@@ -2,7 +2,7 @@
 
 ## Current Status
 
-Technically, our approach is a **hybrid of RBAC and ABAC policies**  \(thx @Ilias for defining this 🙏 \)
+Technically, our approach appears to be a **hybrid of RBAC and ABAC policies**  \(thx @Ilias for defining this 🙏 \)
 
 We are currently investigating the following libraries, which seem to solidly support our approach:
 

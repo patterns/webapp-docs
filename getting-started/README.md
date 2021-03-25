@@ -10,27 +10,10 @@ Make sure you have read about our [code base](../community/contributing.md#overv
 
 ## Quick Start
 
-You need Node.js 12 or newer.
+Please view github repo for latest readme on the code base.
 
-For latest info, please refer to the github repo:  
-[https://github.com/for-good/isgood-webapp/](https://github.com/for-good/isgood-webapp/)
-
-{% hint style="success" %}
-open direct in code view:  
-[https://github1s.com/for-good/isgood-webapp](https://github1s.com/for-good/isgood-webapp)  
-_\(_[_chrome extensions for github1s_](https://chrome.google.com/webstore/detail/github1s/lodjfmkfbfkpdhnhkcdcoonghhghbkhe)_\)_
-{% endhint %}
-
-## What the Blitz?
-
-In case your device didn't recognize blitz, run this command:  
-`npm install -g blitz` or `yarn global add blitz`
-
-Our WebApp is built on Blitz.js ... check their docs: 
-
-* [**https://blitzjs.com/docs/tutorial**](https://blitzjs.com/docs/tutorial)
-* [Blitz.js Video Primer](https://www.youtube.com/watch?v=UHyx8MtCVVk)
-* [Blitz.js resources wiki](https://github.com/blitz-js/blitz/wiki)
+* [https://github.com/for-good/isgood-frontend](https://github.com/for-good/isgood-frontend)
+* [https://github.com/for-good/isgood.ai-backend](https://github.com/for-good/isgood.ai-backend)
 
 ## Need Help?
 
