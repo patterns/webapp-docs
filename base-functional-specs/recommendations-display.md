@@ -25,9 +25,7 @@ More detail and extra features to be added after the Q1 release.
 
 > In the drive repo above, there are sheets with the collated "global\_text" records, that have the structure and detail of the indicators information, that would be available to display in the recommendations output.
 
->
-
-> There is NOT a pretty display mock of a recommendations screen \(or PDF download\), as it is a recent deliverable/output ... but is essentially a pretty data-table type display. Imagery that could be included is something like the SDG goal tile aligned with the iwith the indicator area - open to suggestions.
+> Display is essentially a pretty data-table type display. Imagery that could be included is something like the SDG goal tile aligned with the with the indicator area - open to suggestions.
 
 #### example of SINGLE indicator \(SDG 1.1.1a\) from collated global\_text google sheet \(linked above\)
 
