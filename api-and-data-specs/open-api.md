@@ -18,13 +18,45 @@ Default communication for WebApp and platform is JSON, so looking at options we 
 NOTE: Complex access filters & permissions via API, will need to be handled and reflected via [WebApp](../base-functional-specs/roles-permissions-acl.md) interface for data/platform permissions, as well as hierarchy/group permissions.
 {% endhint %}
 
-## API Functionality for Q1 Release
+## API Functionality for 2021 Q1 Release
 
 1. WebApp sends first four fields of project profile info to the API.
 2. Platform receives the JSON text and processes it.
 3. Returns list of platform indicatorIDs to WebApp and is stored as recommended indicatorIDs against the project.
 
-## Kickoff Meeting Recording
+{% api-method method="get" host="" path="" %}
+{% api-method-summary %}
+Placeholder for Initial Stuff from Matt ????
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+## 20210303 - Meeting to Discuss
 
 {% embed url="https://youtu.be/Zodq9h1vDjY" %}
 
