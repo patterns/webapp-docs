@@ -16,6 +16,10 @@ Note that the data-format is to be STANDARDISED and normalised throughout the We
 
 ## Ref: Geo Data-type Definitions
 
+{% hint style="info" %}
+Postgres ref:  [https://www.postgresql.org/docs/current/datatype.html](https://www.postgresql.org/docs/current/datatype.html)
+{% endhint %}
+
 ```text
 11,POINT(lat, lon),Geolocation (lat,lon),Address,true, (SRID: 4326)
 12,double,Geolocation (Longitude),Address,true,   (convert internally to a point)
