@@ -37,7 +37,8 @@ Would have also multiple beneficiary groups, with multiples of demographics for 
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name="" type="string" required=true %}
-Sending Project info to DS Brain, via API Gateway
+Sending Project info to DS   
+Brain, via API Gateway
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
@@ -83,6 +84,22 @@ Something like this as a response
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+#### Notes from DS Side
+
+* Project ID \(object ID for DS side\) must also be sent to the back end with the text input as well as the number of recommendations
+* API Call will give us Client ID, object Id, user input \(First 4 fields\), number of indicators to be returned
+* Client ID will be the ID of Client sending us the input.
+* Object ID will be the ID associated with the text input.
+* User input will be the input .
+* And the number of indicators to be returned.
+* We will be returning the indicator ID and the strengthIn our table we will have Recommendation ID, ClientID, Object ID, text, Text\_Vector
+
+**Clarification:**
+
+* Keep the option to be able to request more indicators to be returned - default is 5. 
+* just return the primary key \(ID\) fir the recommended indicators with strength. The detail is requested from the global-text as the record of the details, and is on cache in the app.
+* Yes for the extra into to be saved in the DS DB
 
 ## API Infra as Code
 
