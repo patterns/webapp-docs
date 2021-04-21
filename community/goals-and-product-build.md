@@ -27,6 +27,8 @@ _**Every release will extend further beyond current available understandings and
 
 ## Release Targets
 
+Main functionalities we're working on each quarter, to be released as soon as possible after \(or during\) each quarter:
+
 * 2021-Q1:  Beta-Release, indicators and evidence \(data\) to solve problems \(SGD, GRI, IRIS, etc\).
 * 2021-Q2:  General Availability of isgood.ai WebApp, Dashboards, Data-Connectors, AI-Assistant.
 * 2021-Q3:  Consolidate from Q1 & Q2, based on user feedback, extend data-connecters & scripts.

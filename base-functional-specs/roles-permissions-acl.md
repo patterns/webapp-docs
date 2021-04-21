@@ -4,10 +4,14 @@
 
 Technically, our approach appears to be a **hybrid of RBAC and ABAC policies**  \(thx @Ilias for defining this 🙏 \)
 
-We are currently investigating the following libraries, which seem to solidly support our approach:
+We are currently investigating the following libraries to support our complex permissions requirements, which seem to solidly support our approach:
 
 * [https://casbin.org/](https://casbin.org/)   \(Ilias leading investigation of this\)
 * [https://www.osohq.com/](https://www.osohq.com/)    \(Matt leading investigation of this\)
+
+{% hint style="success" %}
+To help ensure security, we are looking at utilising [Auth0](https://auth0.com/).
+{% endhint %}
 
 ## Relationship Fundamentals
 

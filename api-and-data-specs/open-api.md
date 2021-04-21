@@ -1,4 +1,4 @@
-# Open API Service
+# Open API Gateway
 
 For this stage of the project we have pretty minimal requirements for the API; however, we DO need to setup the foundation of the API layer, for us to have initial code and API service available to communicate between the isgood.ai webapp, and the isgood.ai platform \(DS data brain\).
 
@@ -24,20 +24,20 @@ NOTE: Complex access filters & permissions via API, will need to be handled and 
 2. Platform receives the JSON text and processes it.
 3. Returns list of platform indicatorIDs to WebApp and is stored as recommended indicatorIDs against the project.
 
-{% api-method method="get" host="" path="" %}
+{% api-method method="post" host="" path="/Initial/Things" %}
 {% api-method-summary %}
-Placeholder for Initial Stuff from Matt ????
+Initial API between WebApp & DS Functions
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+Would have also multiple beneficiary groups, with multiples of demographics for each beneficiary group, with multiple indicators for the project \(default 5\).
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
+{% api-method-parameter name="" type="string" required=true %}
+Sending Project info to DS Brain, via API Gateway
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
@@ -45,16 +45,48 @@ Placeholder for Initial Stuff from Matt ????
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Something like this as a response 
 {% endapi-method-response-example-description %}
 
 ```
-
+{
+    name: "test",
+    description: "dxftdkrxghijoih'ug;yflhkt",
+    projectImpacts: ["ertvwerb eb", "evwevweveq", "efvweveqveqv"],
+    outcomesDesired: ["fvwevrvwvt", "efvwevwqvq", "ervewvrvw"],
+    beneficiaries: [
+        {
+           name: "ljhvkv",
+           change: ",jh kgvj",
+           demographics: [
+               {
+                   type: "age",
+                   operator: ">",
+                   value: "10"
+               },
+           ]
+        },
+    ],
+    geolocation: ["ervweqv", "vevewveq"],
+    startDate: "timestamp",
+    endDate: "timestamp",
+    indicators: [
+        {
+            indicatorId: "",
+            indicator: "",
+            strength: "",
+        }
+    ]
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+## API Infra as Code
+
+Hsin and Tim have been working on [Terraform](https://www.hashicorp.com/products/terraform) for the management and deploy of the API Gateway on AWS.
 
 ## 20210303 - Meeting to Discuss
 

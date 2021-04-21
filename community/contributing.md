@@ -19,7 +19,7 @@ The greater isgood.ai project has 3 layers:
 2. API and Data-Service Layer.
 3. AI & Data-Platform Layer.
 
-Layer 1 defaults to javascript, while layer 3 defaults to python.  Layer 2 is a combination of javascript, python and open-api standards.
+Layer 1 defaults to javascript, while layer 3 defaults to python.  Layer 2 is a combination of open-api standards .
 
 {% hint style="info" %}
 Tech stack on Stackshare -&gt; [https://stackshare.io/isgood-ai/beta](https://stackshare.io/isgood-ai/beta)
@@ -27,8 +27,10 @@ Tech stack on Stackshare -&gt; [https://stackshare.io/isgood-ai/beta](https://st
 
 Collaborative decision making about tech stack decisions made on our [Loomio](https://www.loomio.org/sfh-isgood-ai-product/).
 
-As general outline, our contributors spend most time with [Node](https://nodejs.org/), [React](https://reactjs.org/) & [Python](https://www.python.org/) coding languages, [PostgerSQL](https://www.postgresql.org/).  
+As general outline, our contributors spend most time with [Express](http://expressjs.com/) \([Node](https://nodejs.org/)\), [React.js](https://reactjs.org/) & [Python](https://www.python.org/) coding languages, [PostgerSQL](https://www.postgresql.org/).  
 
+
+💡  Please see the [Github repositories](https://github.com/for-good) for the latest dependencies being used.
 
 ## Open-Source Public-Good Principles
 

@@ -24,6 +24,8 @@ immediately after cloning the repo and switching to your local branch
 
 What not to do in Postgres:  [https://wiki.postgresql.org/wiki/Don't\_Do\_This](https://wiki.postgresql.org/wiki/Don't_Do_This)
 
+  
+
 ### more topics .......
 
 

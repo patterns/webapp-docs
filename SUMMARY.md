@@ -22,7 +22,7 @@
 
 ## API & Data Specs
 
-* [Open API Service](api-and-data-specs/open-api.md)
+* [Open API Gateway](api-and-data-specs/open-api.md)
 * [Mapping Data \(geoJSON\)](api-and-data-specs/mapping-data-geojson.md)
 
 ## Release Outline <a id="outline"></a>
