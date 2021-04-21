@@ -73,19 +73,20 @@ Would have also multiple beneficiary groups, with multiples of demographics for 
 ```text
 {
     projectId: 1234567890,
-     {
-      indicatorID: primaryKeyOfIndicatorxxx,
-      alignedStrength: 0.937465873983,  //I am the vector of strength?
-    }
-    {
-      indicatorID: primaryKeyOfIndicatorxxx,
-      alignedStrength: 0.837465873983,  //I am the vector of strength?
-    }
-    {
-      indicatorID: primaryKeyOfIndicatorxxx,
-      alignedStrength: 0.737465873983,  //I am the vector of strength?
-    }
-….
+    indicators: [
+        {
+            indicatorID: primaryKeyOfIndicatorxxx,
+            alignedStrength: 0.937465873983,  //I am the vector of strength?
+        },
+        {
+            indicatorID: primaryKeyOfIndicatorxxx,
+            alignedStrength: 0.837465873983,  //I am the vector of strength?
+        },
+        {
+            indicatorID: primaryKeyOfIndicatorxxx,
+            alignedStrength: 0.737465873983,  //I am the vector of strength?
+        }
+    ]
 }
 ```
 
