@@ -24,32 +24,13 @@ NOTE: Complex access filters & permissions via API, will need to be handled and 
 2. Platform receives the JSON text and processes it.
 3. Returns list of platform indicatorIDs to WebApp and is stored as recommended indicatorIDs against the project.
 
-{% api-method method="post" host="" path="/Initial/Things" %}
-{% api-method-summary %}
-Initial API between WebApp & DS Functions
-{% endapi-method-summary %}
+## Initial API between WebApp & DS Functions
 
-{% api-method-description %}
 Would have also multiple beneficiary groups, with multiples of demographics for each beneficiary group, with multiple indicators for the project \(default 5\).
-{% endapi-method-description %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=true %}
-Sending Project info to DS   
-Brain, via API Gateway
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
+#### Sending Project info to DS Brain, via API Gateway
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Something like this as a response 
-{% endapi-method-response-example-description %}
-
-```
+```text
 {
     name: "test",
     description: "dxftdkrxghijoih'ug;yflhkt",
@@ -80,10 +61,6 @@ Something like this as a response
     ]
 }
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
 #### Response back from the DS Mapper function \(via Gateway\)
 
