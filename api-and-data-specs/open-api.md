@@ -60,6 +60,7 @@ Would have also multiple beneficiary groups, with multiples of demographics for 
                 indicator: "",
                 strength: "",
             }
+            ….
         ]
     }
 }
