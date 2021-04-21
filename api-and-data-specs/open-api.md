@@ -85,6 +85,27 @@ Something like this as a response
 {% endapi-method-spec %}
 {% endapi-method %}
 
+#### Response back from the DS Mapper function \(via Gateway\)
+
+```text
+{
+    projectId: 1234567890,
+     {
+      indicatorID: primaryKeyOfIndicatorxxx,
+      alignedStrength: 0.937465873983,  //I am the vector of strength?
+    }
+    {
+      indicatorID: primaryKeyOfIndicatorxxx,
+      alignedStrength: 0.837465873983,  //I am the vector of strength?
+    }
+    {
+      indicatorID: primaryKeyOfIndicatorxxx,
+      alignedStrength: 0.737465873983,  //I am the vector of strength?
+    }
+….
+}
+```
+
 #### Notes from DS Side
 
 * Project ID \(object ID for DS side\) must also be sent to the back end with the text input as well as the number of recommendations
