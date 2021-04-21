@@ -28,7 +28,7 @@ NOTE: Complex access filters & permissions via API, will need to be handled and 
 
 Would have also multiple beneficiary groups, with multiples of demographics for each beneficiary group, with multiple indicators for the project \(default 5\).
 
-#### Sending Project info to DS Brain, via API Gateway
+### Sending Project info to DS Brain, via API Gateway
 
 ```text
 {
@@ -56,7 +56,19 @@ Would have also multiple beneficiary groups, with multiples of demographics for 
 }
 ```
 
-#### Response back from the DS Mapper function \(via Gateway\)
+.... and for now it is just:
+
+```text
+{
+    projectId: 1234567890,
+    name: "string",
+    description: "string",
+    projectImpacts: ["string", "string", "string"],
+    outcomesDesired: ["string", "string", "string"],
+}
+```
+
+### Response back from the DS Mapper function \(via Gateway\)
 
 ```text
 {
@@ -87,7 +99,7 @@ Would have also multiple beneficiary groups, with multiples of demographics for 
 * And the number of indicators to be returned.
 * We will be returning the indicator ID and the strengthIn our table we will have Recommendation ID, ClientID, Object ID, text, Text\_Vector
 
-**Clarification:**
+**Clarifications:**
 
 * Keep the option to be able to request more indicators to be returned - default is 5. 
 * just return the primary key \(ID\) fir the recommended indicators with strength. The detail is requested from the global-text as the record of the details, and is on cache in the app.
