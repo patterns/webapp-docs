@@ -33,36 +33,26 @@ Would have also multiple beneficiary groups, with multiples of demographics for 
 ```text
 {
     projectId: 1234567890,
-    {
-        name: "test",
-        description: "dxftdkrxghijoih'ug;yflhkt",
-        projectImpacts: ["ertvwerb eb", "evwevweveq", "efvweveqveqv"],
-        outcomesDesired: ["fvwevrvwvt", "efvwevwqvq", "ervewvrvw"],
-        beneficiaries: [
-            {
-               name: "ljhvkv",
-               change: ",jh kgvj",
-               demographics: [
-                   {
-                       type: "age",
-                       operator: ">",
-                       value: "10"
-                   },
-               ]
-            },
-        ],
-        geolocation: ["ervweqv", "vevewveq"],
-        startDate: "timestamp",
-        endDate: "timestamp",
-        indicators: [
-            {
-                indicatorId: "",
-                indicator: "",
-                strength: "",
-            }
-            ….
-        ]
-    }
+    name: "test",
+    description: "string",
+    projectImpacts: ["string", "string", "string"],
+    outcomesDesired: ["string", "string", "string"],
+    beneficiaries: [
+        {
+           name: "string",
+           change: "string",
+           demographics: [
+               {
+                   type: "string",
+                   operator: "string",
+                   value: integer
+               },
+           ]
+        },
+    ],
+    geolocation: [lat, lng],
+    startDate: "timestamp",
+    endDate: "timestamp"
 }
 ```
 
