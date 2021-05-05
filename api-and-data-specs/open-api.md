@@ -75,15 +75,15 @@ Would have also multiple beneficiary groups, with multiples of demographics for 
     projectId: 1234567890,
     indicators: [
         {
-            indicatorID: primaryKeyOfIndicatorxxx,
+            indicatorID: uidOfIndicatorxxx,
             alignedStrength: 0.937465873983,  //I am the vector of strength?
         },
         {
-            indicatorID: primaryKeyOfIndicatorxxx,
+            indicatorID: uidOfIndicatorxxx,
             alignedStrength: 0.837465873983,  //I am the vector of strength?
         },
         {
-            indicatorID: primaryKeyOfIndicatorxxx,
+            indicatorID: uidOfIndicatorxxx,
             alignedStrength: 0.737465873983,  //I am the vector of strength?
         }
     ]
@@ -94,16 +94,16 @@ Would have also multiple beneficiary groups, with multiples of demographics for 
 
 * Project ID \(object ID for DS side\) must also be sent to the back end with the text input as well as the number of recommendations
 * API Call will give us Client ID, object Id, user input \(First 4 fields\), number of indicators to be returned
-* Client ID will be the ID of Client sending us the input.
-* Object ID will be the ID associated with the text input.
+* Client ID will be the UID of Client sending us the input.
+* Object ID will be the UID associated with the text input.
 * User input will be the input .
 * And the number of indicators to be returned.
-* We will be returning the indicator ID and the strengthIn our table we will have Recommendation ID, ClientID, Object ID, text, Text\_Vector
+* We will be returning the indicator UID and the strengthIng our table we will have Recommendation ID, ClientID, Object ID, text, Text\_Vector
 
 **Clarifications:**
 
 * Keep the option to be able to request more indicators to be returned - default is 5. 
-* just return the primary key \(ID\) fir the recommended indicators with strength. The detail is requested from the global-text as the record of the details, and is on cache in the app.
+* just return the asset-id \(ID\) fir the recommended indicators with strength. The detail is requested from the global-text as the record of the details, and is on cache in the app.
 * Yes for the extra into to be saved in the DS DB
 
 ## API Infra as Code
